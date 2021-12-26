@@ -1,6 +1,6 @@
 # burns_depression_test
 
-Burn’s Depression Checklist project for VSI
+Burn’s Depression Checklist project
 
 ## Getting Started
 
